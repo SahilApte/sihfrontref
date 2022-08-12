@@ -2,6 +2,9 @@
   "name": "open-react-template",
   "homepage": "http://jayendramadaram.github.io/portfolio-jayendra",
   "version": "0.1.0",
+  "engines": {
+    "node": "6.11.1"
+  },
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
