@@ -75,7 +75,7 @@ const Hero = ({
                     tag='a'
                     color='info'
                     wideMobile
-                    href='www.linkedin.com/in/jayendra-madharam-961922200'
+                    href='https://www.linkedin.com/in/jayendra-madharam-961922200/'
                   >
                     DOWNLOAD RESUME
                   </Button>
@@ -95,7 +95,7 @@ const Hero = ({
           <div className='hero-figure'>
             <Image
               className='has-shadow'
-              src={require("../../feextjoaqkf41.png")}
+              src={"https://raw.githubusercontent.com/jayendramadaram/portfolio-jayendra/main/9.png"}
               alt='jayendra madaram'
               width={896}
               height={504}
