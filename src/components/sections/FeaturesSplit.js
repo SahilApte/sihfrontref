@@ -5,7 +5,6 @@ import SectionHeader from "./partials/SectionHeader";
 import Image from "../elements/Image";
 import "./skill.scss";
 import { BsCodeSlash } from "react-icons/bs";
-import { SiSolidity } from "react-icons/si";
 
 const propTypes = {
   ...SectionSplitProps.types,
@@ -122,12 +121,12 @@ const FeaturesSplit = ({
                     <span>
                       <div className='text-center skills-tile'>
                         <i className='YO' style={{ fontSize: "220%" }}>
-                          <SiSolidity className='mb-1 mx-3' />
+                          <BsCodeSlash className='mb-1 mx-3' />
                           <p
                             className='text-center'
                             style={{ fontSize: "30%", margin: "0px" }}
                           >
-                            SOLIDITY
+                            HTML/SCSS
                           </p>
                         </i>
                       </div>
@@ -228,7 +227,7 @@ const FeaturesSplit = ({
                     <br />
                     you can view site{" "}
                     <a
-                      href='https://github.com/jayendramadaram/Youtube-Clone'
+                      href='https://jayendramadara.000webhostapp.com/cmso/cmso.html'
                       className='text-info'
                     >
                       here{" "}

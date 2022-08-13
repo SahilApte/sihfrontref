@@ -96,10 +96,11 @@ div.glass {
   transform: skewX(45deg) translateX(-150px);
 }
 
-.q{
+.tiles-item-inner {
   transition: 0.5s ease;
 }
-.q:hover {
+
+.tiles-item-inner:hover {
   transform: translateY(-50px);
 }
 
